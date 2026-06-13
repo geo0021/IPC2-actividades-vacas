@@ -1,0 +1,13 @@
+### Consultar el árbol actual (GET)
+GET http://localhost:5086/api/arbol
+
+###
+
+### Insertar el nodo 20 para activar la rotación compuesta RID (POST)
+POST http://localhost:5086/api/arbol/insertar
+Content-Type: application/json
+
+{
+  "id": 20,
+  "etiqueta": "Nieto Derecho"
+}
