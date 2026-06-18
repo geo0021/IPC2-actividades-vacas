@@ -1,0 +1,98 @@
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\bin\Debug\net10.0\appsettings.json
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\bin\Debug\net10.0\actividad 1706.staticwebassets.runtime.json
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\bin\Debug\net10.0\actividad 1706.staticwebassets.endpoints.json
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\bin\Debug\net10.0\actividad 1706.exe
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\bin\Debug\net10.0\actividad 1706.deps.json
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\bin\Debug\net10.0\actividad 1706.runtimeconfig.json
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\bin\Debug\net10.0\actividad 1706.dll
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\bin\Debug\net10.0\actividad 1706.pdb
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\actividad 1706.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\actividad 1706.AssemblyInfoInputs.cache
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\actividad 1706.AssemblyInfo.cs
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\actividad 1706.csproj.CoreCompileInputs.cache
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\actividad 1706.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\actividad 1706.RazorAssemblyInfo.cache
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\actividad 1706.RazorAssemblyInfo.cs
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\scopedcss\bundle\actividad 1706.styles.css
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\scopedcss\projectbundle\actividad 1706.bundle.scp.css
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\2feki6en3s-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\wwqeirr7va-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\tyea0dzxbo-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\1vu7m8zw04-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\wsaq66rfha-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\bf6g38tc1h-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\yswkzt7tse-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\fhd7ug0x44-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\bjo8ugtz18-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\o225d7iwl7-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\uim5574ene-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\utvrh23z15-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\q3azflemqv-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\efugppu1cv-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\8zukqil0qd-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\6qd5irmhmy-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\9ooddcvrl3-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\j1apqqvo8n-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\eyz9fe6i0c-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\rgf3ck258z-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\sxbutf7btx-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\u9x7hvrtpq-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\0so8fnw1hp-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\0pds74pret-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\66ss9ppvqd-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\8ykqet5087-{0}-06098lyss8-06098lyss8.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\2n3ds60etl-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\ex33wgu7gm-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\wup1eldy3x-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\hnobwlab11-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\4abkfv6hvh-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\ltv8w18eot-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\vzwrlbcdoi-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\amxgn6dz47-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\9lgclaf2aw-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\b4tmm50qgh-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\8mreie2ssn-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\sff5igo43n-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\wgknxufa7b-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\l7pkq118wg-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\4tx0ghfyg0-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\qad4utkxvm-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\yxu770jgwt-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\17bmbl6jbo-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\ly15m8m4dp-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\b0c82zc0ee-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\hl0xuhgvtz-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\r0w3u5pgom-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\43t3oqejt1-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\qxgmi9pimo-{0}-356vix0kms-356vix0kms.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\z6tuv8lhtd-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\uviadhxkja-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\zdoh8ay27n-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\idmr00q6b3-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\azrawuautt-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\qi94xw5t54-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\el8i3e6a98-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\zp0kdict5c-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\5aaks564st-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\afp9i6yhma-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\017m57bsq3-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\13f5ktzt1d-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\2f54sri4tt-{0}-8l7lyr3n4m-8l7lyr3n4m.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\compressed\omx97qcf6k-{0}-8l7lyr3n4m-8l7lyr3n4m.gz
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\actividad 1706.dll
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\refint\actividad 1706.dll
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\actividad 1706.pdb
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\actividad 1706.genruntimeconfig.cache
+C:\Users\gil14\source\repos\actividad 1706\actividad 1706\obj\Debug\net10.0\ref\actividad 1706.dll
